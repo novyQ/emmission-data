@@ -1,0 +1,26 @@
+.BarContainer {
+  height: 600px;
+}
+
+.Year {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 32px 0 0 32px;
+  color: grey;
+}
+
+.SelectContainer {
+  width: 760px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Select {
+  margin: 28px;
+  width: 300px;
+}
+
+.PieContainer {
+  display: flex;
+  height: 430px;
+}
